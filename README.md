@@ -1,0 +1,2 @@
+# controlEquipos
+Control de PCs
